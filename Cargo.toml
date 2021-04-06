@@ -1,0 +1,5 @@
+[package]
+name = "critic"
+version = "0.1.0"
+authors = ["Jens Widell <git@jenswidell.se>"]
+edition = "2018"

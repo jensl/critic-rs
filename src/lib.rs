@@ -1,0 +1,1 @@
+//! Critic Rust bindings.
